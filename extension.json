@@ -1,0 +1,7 @@
+{
+  "name": "Gnome Theme",
+  "version": "1.0.0",
+  "authors": ["Szymon Bretner <https://github.com/ncpa0cpl>"],
+  "description": "Theme for the Zed editor based on the Gnome Dark mode",
+  "repository": "https://github.com/ncpa0cpl/GnomeDarkThemeZed"
+}
