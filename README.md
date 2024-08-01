@@ -4,4 +4,4 @@ This is a theme inspired by the Gnome Linux Desktop Environment. Based on the [G
 
 ![Gnome Dark Zed](./screenshots/gnome-dark.png)
 
-(font used in the abovr image is [Inconsolata](https://archlinux.org/packages/extra/any/ttf-inconsolata/))
+(font used in the above image is [Inconsolata](https://archlinux.org/packages/extra/any/ttf-inconsolata/))
