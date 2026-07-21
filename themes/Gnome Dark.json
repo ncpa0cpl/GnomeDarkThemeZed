@@ -48,7 +48,7 @@
         "tab_bar.background": "#262626",
         "tab.inactive_background": "#242424",
         "tab.active_background": "#303030",
-        "search.match_background": null,
+        "search.match_background": "#ff01017a",
         "panel.background": "#242424",
         "panel.focused_border": null,
         "pane.focused_border": null,
@@ -181,7 +181,7 @@
             "color": "#D1D1D1"
           },
           "property": {
-            "color": "#e06c75"
+            "color": "#e1c13d"
           },
           "string": {
             "color": "#98c379"
